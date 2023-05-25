@@ -1,4 +1,4 @@
-# btelecomChurnPredictionUsingLogisticRegression
+# telecomChurnPredictionUsingLogisticRegression
 TABLE OF CONTENTS :1)TITLE
                    2)ABSTRACT
                    3)DATASETS USED
