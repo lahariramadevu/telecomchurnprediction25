@@ -1,4 +1,4 @@
-# telecomChurnPredictionUsingLogisticRegression
+# Telecom Churn Prediction Using Logistic Regression
 TABLE OF CONTENTS :1)TITLE
                    2)ABSTRACT
                    3)DATASETS USED
