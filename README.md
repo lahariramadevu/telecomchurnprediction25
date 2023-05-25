@@ -34,35 +34,25 @@ TECHNOLOGIES USED : 1)Python- The primary programming language
                     library that provides effecient tools for model training,
                     evaluation,and prediction.
                     5)Matplotlib and seaborn- Libraries for Data visualization and 
-                    generating informative plots.
+                    generating informative plots
                     
                     
                     
  PROJECT OVERVIEW : DATA COLLECTION AND PREPROCESSING-
                     Gathering customer data from various sources and preparing it from analysis by handling missing values,Encoding categorical variables,
                     and performing feature scaling.
-                    
-                    
                     EXPLORATORY DATA ANALYSIS-
                     Conducting in-depth analysis to understand the characteristics of churned and non-churned customers, identifying trends,and extracting
                     meaningful insights.
-                    
-                    
                     FEATURE ENGENEERING-
                     selecting and engeneering relevant features that capture customer behaviour,usage patterns,demographics,and other factors that influence
                     churn.
-                    
-                    
                     MODEL DEVELOPMENT-
                     Implementing machine learning algorithms,such as logistic regression,to build a churn prediction model.Fine-tuning the model using cross 
                     validation and hyperparameter optimization techniques.
-                    
-                    
                     MODEL EVALUATION-
                     Assesing the performance of the churn prediction model using appropriate evaluation metrics such as accuracy,precision,recall,and f1 score.
                     Performing a comparative analysis of different models and techniques.
-                    
-                    
                     DEPLOYMENT AND INTEGRATION-
                     Deploying the trained model for real-time predictions or integrating it into existing systems to support churn management strategies. 
                     
